@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Project Evol",
+"productVersion": "0.1",
+"dataUrl": "Trials of Roark.data.unityweb",
+"wasmCodeUrl": "Trials of Roark.wasm.code.unityweb",
+"wasmFrameworkUrl": "Trials of Roark.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.16f1"
+}
